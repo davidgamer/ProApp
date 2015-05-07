@@ -3,6 +3,9 @@
    
    <head>
       <title>Cadastro De Candidato</title>
+      <noscript>
+      <link rel="stylesheet" href="/public/stylesheets/style.less"></link>
+        </noscript>
         </head>
    
    <body>
